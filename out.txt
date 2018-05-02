@@ -1,0 +1,2 @@
+{39}	->	{48}	support: 33.06	confident: 57.51
+{48}	->	{39}	support: 33.06	confident: 69.16

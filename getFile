@@ -1,0 +1,2 @@
+#!/bin/bash
+scp -P 1234 student@127.0.0.1:/home/student/ass/$1 /home/blue/Desktop/Parallel_processing/ass/apriori/Apriori
